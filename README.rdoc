@@ -1,0 +1,3 @@
+= jQuery Behave
+
+Little add-on to manage event like .on() with "load" event support.
